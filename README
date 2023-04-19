@@ -1,0 +1,22 @@
+
+## Description
+
+ Password Generator
+
+this is an application that an employee can use to generate a random password based on criteria they've selected. This app will run in the browser, powered by JavaScript code that you write. It will have a clean and polished user interface that is responsive, ensuring that it adapts to multiple screen sizes.
+## Table of contents
+
+- [Description](#Description)
+- [Screenshot](#screenshot)
+
+
+## The Password Generator will give the use the option to choose the following:
+```
+- Length: at least 8 characters and no more than 128 characters
+- Character Type: lowercase, uppercase, numeric, and/or special characters
+- Confirm: validate at least one of the above character types
+```
+
+# screenshot
+![](./Assets/images/image1.png)
+![](./Assets/images/image2.png)

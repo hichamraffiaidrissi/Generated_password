@@ -1,3 +1,4 @@
+
 *,
 *::before,
 *::after {
@@ -11,7 +12,27 @@ body,
   margin: 0;
   padding: 0;
 }
-
+h2{
+text-align: center;
+}
+h5 {
+  padding-top: 1rem;
+  font-size: 20px;
+  margin-bottom: -10px;
+  color: rgb(189, 144, 106);
+  font-weight: 700;
+  line-height: 1.1;
+  text-align: center;
+}
+h6 {
+  padding-bottom: 1rem;
+  font-size: 10px;
+  margin-bottom: 0.625rem;
+  color: rgb(189, 144, 106);
+  font-weight: 700;
+  line-height: 1.1;
+  text-align: center;
+}
 body {
   font-family: sans-serif;
   background-color: #f9fbfd;
